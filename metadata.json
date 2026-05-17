@@ -1,0 +1,10 @@
+{
+  "name": "Aura Personal Color Consultant",
+  "description": "Professional personal color analysis based on AI-powered image analysis. Discover your best tones, seasons, and styling tips.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
